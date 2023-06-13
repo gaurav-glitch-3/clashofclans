@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,300;1,300&display=swap');
+h1{
+   
+    letter-spacing:10px;
+    text-align:center;
+    font-size:70px;
+    border:2px solid black;
+    color:#eee94a;
+    background-color:black;
+    
+}
+nav{
+    text-align:start;
+    font-size:38px;
+    color:black;
+    background-color: aqua;
+}
+form{
+    font-size:30px;
+    border:5px solid black;
+    text-align:center;
+}
+form:hover{
+    font-size:40px;
+}
+
+body{
+    font-family:Kanit;
+}
+h3{
+    text-align:start;
+}
+marquee{
+    letter-spacing:10px;
+    font-size:70px;
+    border:2px solid black;
+    color:#e20d1f;
+    background-color:rgb(14, 241, 207);
+background:cover;
+}
+.logo{
+    border:solid black 2px;
+    border-radius: 50%;
+   background-image: url(images/border.jpeg);
+}
+.vdo{
+    
+    display:flex;
+    justify-content: center;
+    padding:44px;
+    margin:44px;
+    
+}
+.vdo1{
+    padding:44px;
+    margin:44px;
+}
+.vdo2{
+    padding:44px;
+    margin:44px;}
+/* }.coc{ */
+
+    /* width:800px;
+    height:600px; */
+    /* vh:100%; */
+    /* width:100vw;
+    height:300px; */
+/* } */
+.demo{
+    /* height:40px; */
+    font-size: 44px;
+}
+.coc{ 
+    display:flex;
+    justify-content: center;
+    padding:44px;
+    margin:44px;
+}
+.hborder{
+    background-image: url("images/border.jpeg");
+    /* background-color: rgb(9, 130, 130); */
+
+}
+.master{
+    background-image:url("images/wiz.jpeg");
+    background-color: cover;
+}
